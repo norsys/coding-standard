@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ruleset name="norsys_symfony_test">
+
+  <description>Check style standard to test Norsys Symfony projects</description>
+
+  <rule ref="../../php/test"/>
+  <rule ref="../"/>
+
+</ruleset>

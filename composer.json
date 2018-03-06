@@ -1,0 +1,19 @@
+{
+    "name": "norsys/php-coding-standard",
+    "description": "Coding standard to Norsys PHP projects",
+    "keywords": ["phpcs", "CodeSniffer", "Check style", "Norsys", "Symfony", "Standard"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cédric Vanet",
+            "role": "maintainer"
+        }
+    ],
+    "support" : {
+        "source": "https://github.com/norsys/php-coding-standard",
+        "issues": "https://github.com/norsys/php-coding-standard/issues"
+    },
+    "require": {
+        "squizlabs/php_codesniffer": "~2.0"
+    }
+}
