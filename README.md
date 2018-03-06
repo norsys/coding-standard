@@ -4,20 +4,8 @@ Coding standard to Norsys PHP projects
 Installation
 ------------
 
-Edit your `composer.json`
-
-```json
-{
-    "require-dev": {
-        "norsys/php-coding-standard": "~1.0"
-    }
-}
-```
-
-Update your `composer.lock`
-
 ```sh
-composer update --dev norsys/php-coding-standard
+composer require norsys/php-coding-standard:~1.0 --dev 
 ```
 
 Quick usage
